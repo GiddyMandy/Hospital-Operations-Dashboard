@@ -11,7 +11,7 @@ City General Hospital is experiencing severe operational issues: ER overcrowding
 ---
 
 ## Project Objective
-- Identify root causes of ER congestion and resource waste  
+- Identify root causes of ER congestion. 
 - Analyze patient flow, staff workload, medication stock, lab efficiency, and finance data  
 - Build an interactive Excel dashboard to inform board-level decisions  
 - Recommend prioritized actions to stabilize hospital operations
